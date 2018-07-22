@@ -2,7 +2,7 @@ body {
 	background-color: #ffffff;
 	font-size: 13px;
 	font-family: arial;
-	overflow-x: hidden;
+
 }
 
 .toplinks {
@@ -32,9 +32,14 @@ body {
     font-weight: bold;
 }
 
+
 .logo {
-	text-align: center;
 	padding-top: 200px;
+}
+
+.logo img {
+	display: block;
+	margin: 0 auto;
 }
 
 .search input { 
@@ -46,6 +51,7 @@ body {
 	width: 600px;
 	height: 40px;
 	margin: 0 auto;
+	padding-top: 20px;
 }
 
 .searchbuttons {
