@@ -1,1 +1,114 @@
+body {
+	background-color: #ffffff;
+	font-size: 13px;
+	font-family: arial;
+	overflow-x: hidden;
+}
+
+.toplinks {
+	float: right;
+}
+
+.toplinks a {
+	display: inline;
+	text-decoration: none;
+	color: black;
+	padding: 5px;
+	margin: 3px;
+}
+
+.toplinks img {
+	vertical-align: middle;
+}
+
+.toplinks button {
+	background-color: #4285f4; 
+    border: 1px solid;
+    color: white;
+    padding: 8px 12px;
+    text-align: center;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.logo {
+	text-align: center;
+	padding-top: 200px;
+}
+
+.search input { 
+	width: 600px;
+	height: 40px;
+}
+
+.search {
+	width: 600px;
+	height: 40px;
+	margin: 0 auto;
+}
+
+.searchbuttons {
+	text-align: center;
+	padding: 20px;
+}
+
+.searchbuttons input {
+	border: 1px solid #f8f8f8;
+	background-color: #f8f8f8;
+	padding: 8px 12px;
+	margin: 3px;
+}
+
+.googleoffered {
+	text-align: center;
+}
+
+.googleoffered a {
+	text-decoration: none;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background-color: #f2f2f2;
+	width: 100%;
+	color: rgba(0,0,0,.54);
+	border: 1px solid #e4e4e4;
+}
+
+.country {
+	 border-bottom: 1px solid #e4e4e4
+}
+
+.country p {
+	padding-left: 44px;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
+.footerlinks {
+	list-style-type: none;
+}
+
+.footerlinks li {
+	display: inline;
+}
+
+.footerlinks li a {
+	text-decoration: none;
+	color: rgba(0,0,0,.54);
+	margin: 5px;
+}
+
+.alignright a {
+	padding-right: 10px;
+}
 
